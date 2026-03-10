@@ -1,0 +1,2824 @@
+=== OGARANYA KNOWLEDGE BASE ===
+
+
+
+--- Source: https://ogaranya.com/ ---
+
+Ogaranya -  Offline-to-Online (O2O)  - Convinience Commerce via Text
+Business - Individual
+Large businesses and small businesses use Ogaranya to grow their business.
+Why complicate things with registrations and passwords as a user?
+Forget app downloads and lengthy sign-up forms. With our platform, you can dive straight into action.
+Simply connect through your preferred text-based messaging service and start exploring a world of opportunities instantly and effortlessly.
+01. 
+ Custom Command Services
+ 
+Businesses publicize every day to get the message of their companies out to those who need their services. It is always difficult to measure how these advertorials are doing.
+Our subscription service will not only help businesses measure the reach of their publicity medium/materials but it will also allow them to have contact with potential customers who are interested in their product and services.
+02. 
+Bills Payment
+This is bill payment service for our agents and general users. They can pay for almost all bills (Electric Power, Cable TV, Toll Gate, Airtime vending, and many more) through our many channels.
+We have agents who use our application to vend for people.
+03. 
+Customer Activation
+Businesses publicize every day to get the message of their companies out to those who need their services. It is always difficult to measure how these advertorials are doing.
+Our subscription service will not only help businesses measure the reach of their publicity medium/materials but it will also allow them to have contact with potential customers who are interested in their products and services.
+04. 
+Phone Number Verification
+Our Phone Number Verification service helps businesses to verify that a phone number is active. We believe our approach is a better alternative to sending OTP to users' phone numbers.
+Our approach is to have your users send a pre-setup token to a dedicated number, after which we will send to your server all the information of the user who sent this token to our server for validation. This saves you the rigor of wasting your SMS units by sending them to a vicious user who is just trying to test your application. Our approach will also cut off users who would not get your OTP due to DND (Do-Not-Disturb) restrictions.
+05. 
+ Invoicing
+Our SMS Invoicing service (OgaPay) helps merchants deliver invoices to a customer through SMS; and allows the customer to pay for the invoice using the USSD code of their bank. The merchant is notified of all payments instantly.
+This service can also be used to pay for in-shop purchases as a complement to POS service.
+Use Ogaranya For
+Below is the list of things you could do with our value-added product
+BOOK
+Buy
+POWER
+AIRTIME
+SUBSCRIPTION
+REWARD
+INVOICE
+Power
+To purchase a token for electricity.Example: DistributionComapany MeterNumber*Amount
+EKDC MeterNumber*Amount
+Airtime
+To purchase airtimeExample:Telco PhoneNumber*Amount to 08107600076.
+
+MTN 07070004357*500 to 08107600076
+Subscription
+
+For satellite TV subscription and Internet renewal
+
+DSTV SmartcardNumberREWARD
+Reward
+Users get reward for every transactions and can use their accumulated rewards to pay for utility or get airtime
+Invoice
+Generate invoices for the 2wm platform
+
+Text "Invoice 09090001973 9000" to 08107600076
+Book
+For events booking.
+Text "Book 101010" to 08107600076 to book an event.
+Buy
+To purchase a product.
+Text "Buy 110011" to 08107600076 to buy a product.
+Developers
+Built for developers, by developers
+Why complicate things with registrations, passwords, and app downloads? With our platform, you can dive straight into the action. No need to sign up—just connect with your preferred text-based messaging service and explore a world of opportunities.
+Powerful, flexible API + Webhooks
+A full REST API that has predictable URLs and valid responses, uses standard codes, authentication, and verbs. Plus webhooks for asynchronous events. Voilà.
+Explore the API 
+Documentation so good you’ll cry
+We invest our time into fully abstracting our API so your team can focus on building a cohesive system. Integrate with Ogaranya in minutes, not months.
+Explore the API 
+                    
+       
+    { 
+        "status": "success",
+
+        "data": { 
+
+            "order_id" : "8864905934", "order_reference":   
+
+            "8864905934", "message": "To complete this    
+
+            transaction, Text ORDER 5549397032 to  
+
+            08011223344", 
+
+            "msisdn_to_send_to" : "08011223344" 
+        }
+    }
+                    
+
+                    
+Sales Channels
+Make O2O commerce channel easy
+Your customers can buy from our different sales channels.
+
+    Search for Ogaranya on your WeChat
+  
+-->
+
+
+    
+Customers Stories
+Ogaranya is absolutely fantastic. Setting up took less than 45 mins. Extremely easy 
+Layon Pan
+CTO, Sharply Africa
+Ogaranya is absolutely fantastic. Setting up took less than 45 mins. Extremely easy 
+Layon Pan
+CTO, Sharply Africa
+Ogaranya is absolutely fantastic. Setting up took less than 45 minutes. Extremely easy 
+Layon Pan
+CTO, Sharply Africa
+Product
+Invoicing
+Bill Payment
+Subscription
+New
+Sales Channel
+OIS Support
+Company
+About Us
+Bills receipt
+Contact Us
+Blog
+Documentation
+Integration
+Socials
+Twitter
+LinkedIn
+Facebook
+Instagram
+Legal
+Term
+s
+Privacy
+Acceptable use policy
+Ogaranya
+ powers commercial exchange of products and services for value.
+ With Ogaranya, transactions are concluded with ease, convenience and speed using message commerce via TEXTs and social media  Instant messaging applications like Whatsapp and Telegram.
+x
+ x 
+Get Started
+For Merchants
+Text 
+MERCHANT
+ to 
+08107600076
+ to get an invitation code.
+Validate Code
+For Individual
+Pay bills and buy airtime with text
+For bill payment text 
+ UTILITY 
+ to 
+08107600076
+ 
+To buy airtime text 
+AirtimeLine PhoneNumber*Amount
+ e.g 
+MTN 08068869417*1000 
+ to 
+ 08107600076
+ 
+Open Messages
+
+--- Source: https://www.ogaranya.com/about ---
+
+About Us
+Ogaranya: Simplifying Commerce Through Messaging
+Ogaranya
+ powers commercial exchange of products and services for value. With Ogaranya, transactions are concluded with ease, convenience and speed using message commerce via TEXTs and social media instant messaging applications like WhatsApp and Telegram.
+Use Ogaranya For
+Below is the list of things you could do with our value-added product
+BOOK
+BUY
+GIVE
+SUBSCRIPTION
+REWARD
+CAMPAIGN
+2MW
+INVOICE
+Buy
+Text "Buy 110011" to 08107600076 to buy a demo product.
+Try Demo 
+Book
+Text "Book 101010" to 08107600076 to book an event.
+Try Demo 
+Give
+Text "Give 332162" to 08107600076 to give a donation.
+Try Demo 
+Invoice
+Text "Invoice 09090001973 9000" to 08107600076 to forward an invoice to 09090001973.
+Try Demo 
+Product
+Invoicing
+Bill Payment
+Subscription
+New
+Sales Channel
+OIS Support
+Company
+About Us
+Bills receipt
+Contact Us
+Blog
+Documentation
+Integration
+Socials
+Twitter
+LinkedIn
+Facebook
+Instagram
+Legal
+Term
+s
+Privacy
+Acceptable use policy
+Ogaranya
+ powers commercial exchange of products and services for value.
+ With Ogaranya, transactions are concluded with ease, convenience and speed using message commerce via TEXTs and social media  Instant messaging applications like Whatsapp and Telegram.
+x
+ x 
+Get Started
+For Merchants
+Text 
+MERCHANT
+ to 
+08107600076
+ to get an invitation code.
+Validate Code
+For Individual
+Pay bills and buy airtime with text
+For bill payment text 
+ UTILITY 
+ to 
+08107600076
+ 
+To buy airtime text 
+AirtimeLine PhoneNumber*Amount
+ e.g 
+MTN 08068869417*1000 
+ to 
+ 08107600076
+ 
+Open Messages
+
+--- Source: https://www.ogaranya.com/contact-us ---
+
+Ogaranya - Contact Us - Convenient Commerce via Text
+Contact Us
+Let’s level up your brand, together
+Email Us
+Call Us
++234 (0)700-OGARANYA (0700-6427-2692) 
+
++234 (0)700-700-HELP (0700-700-4357)
+Visit Us
+Ogaranya Technology Solutions Limited,
+
+12A Mabinuori Dawodu Street,
+
+Gbagada, Lagos.
+
+Landmark- Charly Boy Bus-stop
+Get in touch
+Our friendly team would love to hear from you.
+First name
+ 
+Last name
+ 
+Phone number
+ 
+Email
+ 
+message
+ 
+Product
+Invoicing
+Bill Payment
+Subscription
+New
+Sales Channel
+OIS Support
+Company
+About Us
+Bills receipt
+Contact Us
+Blog
+Documentation
+Integration
+Socials
+Twitter
+LinkedIn
+Facebook
+Instagram
+Legal
+Term
+s
+Privacy
+Acceptable use policy
+Ogaranya
+ powers commercial exchange of products and services for value.
+ With Ogaranya, transactions are concluded with ease, convenience and speed using message commerce via TEXTs and social media  Instant messaging applications like Whatsapp and Telegram.
+x
+ x 
+Get Started
+For Merchants
+Text 
+MERCHANT
+ to 
+08107600076
+ to get an invitation code.
+Validate Code
+For Individual
+Pay bills and buy airtime with text
+For bill payment text 
+ UTILITY 
+ to 
+08107600076
+ 
+To buy airtime text 
+AirtimeLine PhoneNumber*Amount
+ e.g 
+MTN 08068869417*1000 
+ to 
+ 08107600076
+ 
+Open Messages
+
+--- Source: https://www.ogaranya.com/documentation ---
+
+Documentation  - Ogaranya: Offline To Online Transaction
+Documentation
+Introduction To Ogaranya API Reference
+Get Started
+Ogaranya API
+The Ogaranya API is a service that provides RESTful APIs for creating, initiating, and accepting payments via SMS.
+The API responds with JSON payloads in most cases, unless stated otherwise.
+When sending data to the API, parameters should be passed as valid JSON, and the request should include the header "Content-Type: application/json" to indicate the data format being sent.
+Documentation so good, you’ll cry. We invest our time into fully abstracting our APIs, so your team can focus on building a
+cohesive system. Integrate with Ogaranya in minutes, not months.
+curl -X POST 
+         '
+{{base-url}}/{merchant_id}/pay/{country_code}
+' \
+
+-H '
+Content-Type: application/json
+' 
+\
+
+-H
+ 
+'
+token: your_token
+'
+ 
+\
+
+-H
+ 
+'
+publickey: your_public key
+' \
+
+-d
+ 
+'
+{
+      "amount": "500",
+      "msisdn": "2348068869417",
+      "desc": "Testing",
+      "reference":"8864905934"
+}
+'
+Simulator
+Our API allows you to simulate live models in the comfort of your local environment.
+simulation feature allows developers to test and emulate the behavior of live models within our system. It provides a convenient way to observe the flow, interaction, and response in a simulated environment.
+This feature allows message and payment simulation which is beneficial to developers and businesses, to ensure that they test various endpoints without actually making real payments or sending real messages.
+curl -X GET 
+         '
+{{base-url}}/bot/simulation/{message}
+' \
+
+-H
+ 'Content-Type: application/json'
+\
+
+-H
+ 
+'
+token: your_token
+' \
+
+-H
+ 
+'
+publickey: your_public key
+' \
+
+curl -X POST 
+         '
+ {{base-url}}/payment/simulation
+' \
+
+-H
+'Content-Type: application/json'
+\
+
+-H
+'
+token: your_token
+' \
+
+-H
+'
+publickey: your_public key
+' \
+
+-d
+'
+{
+     "order_reference": "5467870645",
+     "amount": 600
+    }
+'
+
+Simplified Debugging
+Possible errors have been logged in API Health. This enhance your debugging skill and improve your efficiency
+If you have an error not logged in the API health do well to drop it in the comment box.
+{
+
+"status"
+: 
+"error"
+,
+
+"message"
+: 
+"Merchant phone number is already existing"
+,
+
+"code"
+: 
+"E0023"
+
+}
+
+ x 
+Get Started
+For Merchants
+Text 
+MERCHANT
+ to 
+08107600076
+ to get an invitation code.
+Validate Code
+For Individual
+Pay bills and buy airtime with text
+For bill payment text UTILITY to 08107600076 
+To buy airtime text ' Airtime_Line Phnone_Number*Amount '  to 08107600076  
+Open Messages
+
+--- Source: https://www.ogaranya.com/integration ---
+
+Ogaranya - Integration- Convenient Commerce via Text
+Unleash the full power of O2O (Online to Offline) commerce with our integrations
+ 
+Connect Ogaranya to your Shopify store
+The all-in-one commerce platform to start, run, and grow a business
+Download Plugin
+ 
+How to integrate
+Wordpress websites and E-commerce platform
+The world's most popular, open-source eCommerce platform built on WordPress
+Download Plugin
+ 
+How to integrate
+Product
+Invoicing
+Bill Payment
+Subscription
+New
+Sales Channel
+OIS Support
+Company
+About Us
+Bills receipt
+Contact Us
+Blog
+Documentation
+Integration
+Socials
+Twitter
+LinkedIn
+Facebook
+Instagram
+Legal
+Term
+s
+Privacy
+Acceptable use policy
+Ogaranya
+ powers commercial exchange of products and services for value.
+ With Ogaranya, transactions are concluded with ease, convenience and speed using message commerce via TEXTs and social media  Instant messaging applications like Whatsapp and Telegram.
+x
+ x 
+Get Started
+For Merchants
+Text 
+MERCHANT
+ to 
+08107600076
+ to get an invitation code.
+Validate Code
+For Individual
+Pay bills and buy airtime with text
+For bill payment text 
+ UTILITY 
+ to 
+08107600076
+ 
+To buy airtime text 
+AirtimeLine PhoneNumber*Amount
+ e.g 
+MTN 08068869417*1000 
+ to 
+ 08107600076
+ 
+Open Messages
+
+--- Source: https://www.ogaranya.com/documentation/v1/getting-started/ ---
+
+Get Started
+Bank Enquiry API | Verify Bank Account Details Instantly
+Verify bank account number & retrieve accurate account name using Bank Enquiry.Ensure successful transfer by validating beneficiary details before payment.
+Virtual Account
+A Virtual Account is a unique, system-generated account assigned to a customer for receiving payments using their personal details
+A Virtual Account is a unique customer payment account.
+User wallet
+The user wallet is to enhance customer satisfaction. Note that this is a transactional wallet and can only be debited by an authorized merchant
+User wallet is to enhance customer satisfaction
+Merchant wallet
+Merchants are provided with a transactional wallet which they can top up, check balance, and also use in completing transactions for their customers
+Merchants are  transactional wallet
+Request for payment gateway codes
+For payers to get the available payment gateway options for them to pay
+Request for payment gateway codes
+API Token
+API Token can be generated and retrieved by sending a request  to its endpoint
+How to generate your API Token
+Product
+Send a post request with the product detail with a unique identifier
+How to create a new product
+API Health
+API test and errors
+Check if an endpoint is in its right state
+Sub Merchant Creation
+Create a new merchant under an existing parent merchant
+Create a sub-merchant
+
+--- Source: https://www.ogaranya.com/documentation/v1/overview ---
+
+Overview
+ 
+Introduction
+The Ogaranya API is a service that provides RESTful APIs for creating, initiating, and accepting payments via SMS. The API responds with JSON payloads in most cases, unless stated otherwise. When sending data to the API, parameters should be passed as valid JSON, and the request should include the header "Content-Type: application/JSON" to indicate the data format being sent.
+All incompatible changes made to API will be versioned and won't affect existing endpoints. However, we may add fields to the JSON response without notice or API versioning. So it's not a good idea to rely on object mappers in your integration code that will fail on unknown properties.
+Note that header names are not case-sensitive and may vary depending on your ways of implementing both your requests and our responses.
+Environment
+We have two environments:
+Staging
+: this can be used to test your integration. No accurate checks are performed when in the Staging environment.
+Production
+: To provide you with access to the production environment, we require that the integration is tested first. We just want to make sure that everything works the way it should.
+Staging
+{{base-url}}
+ 'https://api.staging.ogaranya.com/v1'
+ 
+This is the staging environment and its access can be regulated with the use of an authorization header. During your onboarding, you will be provided with the production endpoint
+ 
+Authentication
+API users are expected to pass the token and public_key through their request header for authorization.
+Making a request
+All requests must contain the following headers:
+Name
+Type
+Required
+Description
+token
+String
+Yes
+ Your given token
+publickey
+String
+Yes
+ sha512 of your given token and private key i.e sha512(token + private_key)
+ 
+API Health
+On API Health, you can easily understand the health status of the API and its returned Status Codes.
+To check the operational status of our service, you can use the following request. If the response you receive includes an HTTP status code of 200, it confirms the availability of your API.
+Note: Do not forget to include the header as stated above. Perhaps, This works fine without it.
+
+   curl -X GET \
+
+     'https://api.staging.ogaranya.com'
+
+
+    
+
+Success Response:
+ 
+#
+Errors
+The response body contains a JSON payload with additional information. 
+ Click here to see more Errors 
+Please, note that not all error responses will contain the error code and name. More and more errors will get their codes in the future.
+For example:
+{
+
+  
+"status"
+:
+ 
+"Error"
+,
+
+  
+"message"
+:
+ "
+You don't come to a party without your Token and Public key"
+,
+
+}
+
+ 
+Country Codes
+ 
+S/N
+ 
+Country Names
+ Country Codes
+ 1.
+ Nigeria
+ NG
+ 2.
+ Zambia
+ ZM
+ 3.
+ Liberia
+ LR
+4.
+ Ghana
+ GH
+5.
+ India
+ IN
+ 
+Creating a Sub-merchant
+Registered merchants can create sub-merchants under them.To create a new sub-merchant, Make a call to the endpoint below with the payload in the stated format.
+ Name
+ Type
+ Description
+ name
+ String
+ Merchants' bussiness name
+ phone
+ Number
+ Merchants' reachable phone number
+ email
+ String
+ Merchants' email
+ address
+ String
+ Address of the business location
+ contact_person
+ String
+ point of contact associated with the business that can easily be reached at any time.
+ 
+charge_commission_to_merchant
+ Boolean
+ Should the commission be charged to the merchant or customer?
+ 
+manage_stock
+ Boolean
+ Are we tracking the inventory or stock of products?
+ 
+use_custom_payment
+ Boolean
+ Should customers have a choice of choosing the payment type?
+ 
+payment_gateway_group_id
+ Boolean
+ 
+ 
+Show_name_on_payment_gateway
+ Boolean
+ 
+ 
+custom_flow_settings”
+ Object
+ 
+ 
+skip
+Array
+ 
+ Customer_name
+String
+ 
+Shipping_address
+String
+ 
+ payment_gateway_settings
+ String
+ 
+ MerchantId
+Number
+ Your given merchant_id
+ Username
+ String
+ 
+ Password
+ String
+ 
+ 
+account_detail
+Object
+ 
+ bank_code
+Number
+ 
+ account_number
+Number
+ 
+ accout_name
+String
+ 
+
+   curl -X POST \
+
+     '{{base-url}}/{country_code}/merchant'
+
+Payload :
+{
+    "name": "Olubusayo store",
+    "phone": "2348068869429",
+    "email": "a@b.com",
+    "address": "17 lekki road, langbasa rd, Ikeja",
+    "contact_person": "Olubodun",
+    "charge_commission_to_merchant": "0",
+    "manage_stock": "0",
+    "use_custom_payment": "1",
+    "payment_gateway_group_id": "1",
+    "“Show_name_on_payment_gateway”": 1,
+    "“custom_flow_settings”": {
+      "skip": [
+        "customer_name",
+        "shipping_address"
+      ]
+    },
+    "payment_gateway_settings": {
+      "MerchantId": "4057",
+      "Username": "ogavalue","Password": "dfdfd"
+    },
+    "account_details": {
+      "bank_code": "058",
+      "account_number": "1213323232",
+      "account_name": "Okenwa Akinyele"
+    }
+  }
+Note that in the table, the text in red color is either array, object, or boolean. Diversion from the customarily expected format for the payload may result in an "Invalid Parameter" error.
+ 
+Expected Response :
+{
+        "status": "success",
+        "data": {
+            "message": "Merchant successfully created."
+        }
+    }
+ 
+API Token
+ Name
+Type
+ Description
+ merchant_id
+ Number
+ Given Merchant id
+ country_code
+ Number
+ Refer to the country code table
+ 
+#
+Retrieve Merchant's API token
+This endpoint retrieves the merchant API token
+   curl -X GET \
+
+     '{{base-url}}/{merchant_id}/api/token/'
+Expected response :
+{
+        "status": "success",
+        "data": {
+            "token": "2349160006677",
+            "private_key": "9QxaJ&?WMsr5k3UwB$XGEQj3C$g*%6*eqsyXR%Hn2YR*h&?S6ZQJurjHSXX?d*wmTYgz%@"
+        }
+    }
+ 
+Transactions
+This is a set of endpoints or methods provided by Ogaranya, that developers can use to perform various text-based payment-related operations.
+Note: Do not forget to include the header as stated above
+Spaces are considered invalid characters within the context of an HTTP request and can cause issues or lead to errors. Perhaps, the amount should be sent in Naira and not converted to Kobo, our system treats the amount as Naira.
+Name
+Type
+Description
+ msisdn
+ Number
+ Phone Number
+amount
+Number
+ Total cost in Naira
+ desc
+String
+ Payment description
+reference
+ Number
+ Reference to send to the bank
+ 
+order_id
+ Number
+ Unique ID for individual orders
+ transaction _ref
+ String
+ Returned reference from the gateway
+ order_reference
+ Number
+ The initial reference was sent to the bank
+ payment_gateway_code
+ Number
+ Unique code for the gateways
+ country_code
+ Number
+ Refer to the table above
+ merchant_Id
+ Number
+ Unique user ID for each merchant
+ status
+ Text
+ Dictate the state of the request
+ message
+ Text
+ Describe the state of the request
+code
+ Number
+ Status Code
+ 
+ 
+#
+Create an order to be completed by the customer through sms
+Enabling customers to create orders seamlessly is a way to improve customer satisfaction. To do this, a request should be sent with a header to the following endpoint
+
+   curl -X POST \
+
+     '{{base-url}}/{merchant_id}/pay/{country_code}'
+
+Payload
+ :
+{
+      "amount": "500",
+      "msisdn": "2348068869417",
+      "desc": "Testing",
+      "reference":"8864905934"
+    }
+
+The merchant_id is the id given during setup while the country_code can be found in the Country Code table.
+Response
+ :
+{
+        "status": "success",
+        "data": {
+            "order_id": "8864905934",
+            "order_reference": "8864905934",
+            "message": "To complete this transaction, Text ORDER 5549397032 to 08011223344",
+            "msisdn_to_send_to": "08011223344"
+        }
+    }
+ 
+#
+Initiate a payment to be completed online
+Payment can be initiated by choosing the preferred gateway and including its code in the request.
+
+   curl -X POST \
+
+     '{{base-url}}/{merchant_id}/pay/{country_code}/{payment_gateway_code}'
+
+Payload
+ :
+{
+      "amount": "500",
+      "msisdn":"2348068869417",
+      "desc": "Testing",
+      "reference":"ssssssdddde",
+      "child_merchant_id":"2348068869429"
+    }
+
+Response :
+{
+    "status": "success",
+    "data": {
+        "message": "Your order ID is 5549397032. Total amount is ₦500.00. Pay by transfer into the account below. \n\n Bank: FSDH Merchant Bank \n Account Number:  \n Account Name: Neolife.\n\nNB: THIS ACCOUNT DETAILS IS VALID ONLY FOR THIS TRANSACTION AND IT WILL EXPIRE IN 1hr.\n",
+        "order_reference": "5549397032",
+        "dialing_code": ""
+    }
+}
+
+#
+Create an Invoice
+This is to create an invoice to be sent to the customers' phones.
+ Name
+ Type
+ Description
+ merchant_id
+ Number
+ The id is given during merchant creation
+ amount
+ Number
+ Expected amount from the recipient
+ msisdn
+ Number
+ Recipients phone number
+reference
+ Number
+ A unique reference for the created invoice
+
+   curl -X POST \
+
+     ' {{base-url}}/{merchant_id}/invoice'
+
+Payload
+ :
+{
+      "amount": "500",
+      "msisdn": "2348068869417",
+      "reference":"12536373893"
+    }
+
+Respose :
+        {
+            "status": "success",
+            "data": {
+                "msisdn": "2348159174839",
+                "order_id": "2247371120",
+                "reference": "222393",
+                "total": 500,
+                "message": "2348159174839 -> ₦500.00, Ref: 2247371120"
+            }
+        }
+
+ 
+#
+Request for payment gateway codes
+For payer to get the available payment gateway options available for them to pay, You should send a POST request to this endpoint with the appropriate payload and Header.
+ Name
+ Type
+ Description
+ merchant_id
+ Number
+ Acquired during registration
+ country_code
+ String
+ Refer to the Country code table
+ amount
+ Number
+ The amount gotten from invoice
+ msidn
+ Number
+ Customer's number
+ desc
+ String
+ Description
+ reference
+ String
+ Reference from the invoice
+ 
+
+   curl -X POST \
+     ' {{base-url}}/{merchant_id}/payment/gateway/{country_code}'
+
+Payload :
+
+    {
+        "amount": 500,
+        "msisdn": "2348159174839",
+        "desc": "Test",
+        "reference": "4358346267"
+    }
+
+Response :
+
+    {
+        "status": "success",
+        "data": {
+            "message": "To pay, reply with:\n\n12  for GTBank\n13  for Zenith Bank\n21  to pay with Remita RRR"
+        }
+    }
+
+ 
+#
+Get Bank List for Settlement
+This returns the list of banks available for settlement. Banks not in the list are yet to be integrated into our system, you can always check back for updates on the bank list or drop your request in the comment section.
+
+   curl -X GET \
+
+     '{{base-url}}/{merchant_id}/banks'
+
+Response :
+{
+        "status": "success",
+        "data": [
+            {
+                "bank_code": "044",
+                "bank_name": "ACCESS BANK PLC",
+                "bank_sort_code": "044150149"
+            },
+            {
+                "bank_code": "014",
+                "bank_name": "MAINSTREET BANK PLC",
+                "bank_sort_code": "014150030"
+            },
+          ]
+    } 
+
+ 
+#
+Get A List of Available Payment gateways
+This encompasses available payment gateway options and their code. Please note that availability and suitability of these payment gateways may vary depending on your country and specific business requirements
+
+   curl -X GET \
+
+     '{{base-url}}/{merchant_id}/payment/gateway'
+
+Please note that availability and suitability of these payment gateways may vary depending on your country and specific business requirements
+Response
+ :
+{
+    "status": "success",
+    "data": [
+        {
+            "gateway_code": 93,
+            "gateway_name": "Bank Transfer",
+            "gateway_description": " to pay with Bank Transfer (Preferred by most users)"
+        },
+        {
+            "gateway_code": 95,
+            "gateway_name": "GTbank",
+            "gateway_description": " for GTBank USSD"
+        },
+        {
+            "gateway_code": 97,
+            "gateway_name": "UBA",
+            "gateway_description": " for UBA USSD"
+        },
+        .
+        .
+        .
+    ]
+}
+
+ 
+#
+Confirm Payment Status
+Confirmation of payment can be easily done by checking its status through the endpoint below
+
+   curl -X GET \
+
+     ' {{base-url}}/{ merchant_id }/payment/{order_reference}/status/{country_code}'
+
+Name
+ Type
+ Description
+ merchant_id
+ Number
+ Id gave during Merchant creation
+ order_reference
+ Number
+ The generated id for the payment
+ contry_code
+ Number
+ Refer to the country_table
+Response
+ :
+{
+        "status": "success",
+        "data": {
+            "message": "Payment successful",
+            "status": "SUCCESSFUL",
+            "meta": []
+        }
+    }
+ 
+Wallet
+Wallet in this context, is a virtual store where money is saved for a transactional purpose. This is so swift as it doesn't have to go through the bank to complete the transaction. It is one of the numerous features our system offers. In a case where gateways are down, this will be a messiah.
+ 
+#
+User wallet
+User wallet is to enhance customer satisfaction. Note that this is a transactional wallet and can only be debited by an authorized merchant.
+#
+Create a user Wallet
+This endpoint serves as a gateway for users to initiate the wallet setup process. Creating a wallet is a crucial step that enables access to diversify transactions within our system.
+
+   curl -X POST \
+
+     '{{base-url}}}/2348068869417/wallet'
+
+Payload :
+
+ {
+    "firstname": "Olubodun",
+    "surname": "Akinyele",
+    "phone": "2348068869417",
+    "gender": "male",
+    "dob": "5/9/1999",
+    "bvn": "22224827394"
+ }
+Response :
+
+    {
+         "code": "200"
+        "status": "",
+        "data": {
+            "message": ""
+        }
+    }
+ 
+#
+Debit a user Wallet
+This endpoint enables authorized merchant to charge a user wallet. 
+
+   curl -X POST \
+
+     '{{base-url}}/2348068869417/wallet/debit'
+
+Payload :
+
+ {
+    "phone": "2348068869345",
+    "account_number": "11000233295",
+    "amount": "100",
+    "payment_gateway_code": "122"
+}
+Response :
+
+    {
+        "status": "success",
+        "data": {
+            "order_id": 5124823934;
+            "payment_reference": "0W-40WE77903T7917g67qD6UHW83y2u4idmb7d73w792J"
+        }
+
+    }
+ 
+#
+Generate random BVN
+This endpoint provides you with random BVN which you can use in our test environment. This can be run in your browser. All you need to do is to click 
+ here 
+ or copy the endpoint to your browser, then click on the generate button. Yes, your BVN is ready.
+   curl -X GET \
+
+     'https://topinfo.ng/bvn-generator/'
+#
+Get a wallet Infomation
+Send a request to this endpoint to retrieve informations about an active wallet.
+   curl -X GET \
+
+     '{{base-url}}/transactional/wallet/'
+#
+Get a wallet Histoty
+To fetch an history of a wallet transaction.
+   curl -X GET \
+
+     '{{base-url}}/transactional/wallet/'
+#
+Top up a wallet
+You can easily move money to your wallet by sending a 
+command
+ to us. text 
+ TOP AMOUNT 
+ to 
+ 08107600076 
+ through any of the acceptable 
+ sales channels
+. 
+Note: As a merchant, you can also top up through your merchant app.
+ 
+#
+Merchant wallet
+Merchants are provided with a transactional wallet which they can top up, check balance, and also use in completing transactions for their customers.
+#
+To complete an order through merchant wallet.
+In a case where a merchant wallet is to be charged for a completed order, you should call on this endpoint with the required information.
+   curl -X GET \
+
+     '{{base-url}}/transactional/wallet/{{ gateway_code }}/{{ order_id }}'
+#
+Get merchant wallet balance
+Send a get request to get the available wallet balance.
+   curl -X GET \
+
+     '{{base-url}}/transactional/wallet/'
+ 
+Simulation
+An imitation of a live model in a controlled environment. This gives room for the emulator to study the flow, pattern of response and behavioral pattern of the live model
+Name 
+ Type
+ Description
+ message
+ String
+ Message to be sent via sms
+ order_reference
+ Number
+ Reference you got while placing the order
+ amount
+ Number
+ The approved amount to be paid
+#
+Message simulation
+The message simulation feature allows developers to test and emulate the behavior of messages within our system. It provides a convenient way to observe how messages flow, interact, and respond in a simulated environment.
+
+   curl -X GET \
+
+     '{{base-url}}/bot/simulation/{ message }'
+
+Example:
+#
+Payment simulation
+Payment is to be completed online by the customer but it can be simulated with the following endpoint.
+
+   curl -X POST \
+
+     ' {{base-url}}/payment/simulation'
+
+Payload :
+{
+         "order_reference": "5467870645",
+         "amount": 600
+     }
+
+Example:
+ 
+Products
+Our API provides you with a variety of product types -
+ S/N
+ Product Type
+ Description
+ 1.
+ Product
+ These are tangible products. The flow of buying this type
+of product has an extra step of address
+ 2.
+ Event
+ These are for events or more like digital products (not bills). The flow does not include the address because it usually does not include it.
+ 3.
+ Invoice
+ This is for creating an invoice
+ 
+ Name
+ Type
+ Required
+ Description
+ name
+ String
+  Yes
+ Product name
+ qty
+ Number
+  Yes
+ Product quantity
+ desc
+ String
+  Yes
+ Description of the product
+ type / product_type
+ String
+ Yes
+ Type of product to be created
+ case_quantity
+ Number
+ optional
+ 
+ case_price
+ Number
+ optional
+ 
+ weight
+ Number
+  Yes
+ Weight of the
+ product_code
+ Number
+ Yes
+ This is the returned 'code' when a product is successfully created
+ 
+ 
+#
+Create a Product
+
+   curl -X POST \
+
+     '{{base-url}}/{merchant_id}/products'
+
+payload
+
+    {
+      "name": "test",
+      "qty": "1",
+      "price": "23232",
+      "desc": "tetsting",
+      "type": "product",
+      "case_quantity":
+      "23",
+      "case_price": "12",
+      "weight" : "223"
+    }
+
+Response :
+
+    {
+        "status": "success",
+        "data": {
+            "code": "285429"
+        }
+    }
+
+ 
+#
+Edit a Product
+Products can be edited and updated by calling on the following endpoint
+
+   curl -X PUT \
+
+     '{{base-url}}/{merchant_id}/product/code/{product_code}'
+
+Payload :
+
+    {
+        "name": "test",
+        "qty": "1",
+        "price": "23232",
+        "desc": "tetsting",
+        "type": "product",
+        "case_quantity":
+        "23",
+        "case_price": "12",
+        "weight" : "2293"
+    }
+Response :
+
+    {
+        "status": "success",
+        "data": {
+            "message": "Product successfully updated"
+        }
+    }
+ 
+#
+Delete a product
+Products can be deleted by passing it code to the query in a DELETE request.
+   curl -X DELETE \
+
+     '{{base-url}}/{merchant_id}/product/code/{product_code}'
+
+Response :
+    {
+        "status": "success",
+        "data": {
+            "message": "Product successfully deleted"
+        }
+    }
+ 
+#
+Get all created products by type
+To fetch the list of all available products, query this endpoint.
+   curl -X GET \
+
+     '{{base-url}}/{merchant_id}/products/{product_type}'
+
+Expected response :
+    {
+        "status": "success",
+        "data": [
+            {
+                "code": "059288",
+                "name": "test",
+                "price": 23232,
+                "desc": "testing",
+                "type": "product",
+                "case_quantity": 23,
+                "case_price": 12,
+                "weight": "product",
+                "created": "2023-06-26 14:54:29",
+                "updated": "2023-06-26 14:54:29"
+            },
+         
+        ]
+    }
+ 
+#
+Get product by product_code
+A single product can be fetched with its product_code
+   curl -X GET \
+
+     '{{base-url}}/{merchant_id}/product/code/{product_code}'
+
+Expected Response :
+    {
+        "status": "success",
+        "data": {
+            "code": "059288",
+            "name": "test",
+            "price": 23232,
+            "desc": "testing",
+            "type": "product",
+            "case_quantity": 23,
+            "case_price": 12,
+            "weight": "223",
+            "created": "2023-06-26 14:54:29",
+            "updated": "2023-06-26 14:54:29"
+        }
+    }
+ 
+ 
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/v1/api-token ---
+
+API Token
+ 
+ Name
+Type
+ Description
+ merchant_id
+ Number
+ Given Merchant id
+ country_code
+ Number
+ Refer to the country code table
+ 
+ 
+Retrieve Merchant's API token
+This endpoint retrieves the merchant API token. This gives you access to your token anytime and any day
+   curl -X GET \
+
+     '{{base-url}}/{merchant_id}/api/token/'
+Expected response :
+{
+        "status": "success",
+        "data": {
+            "token": "2349160006677",
+            "private_key": "9QxaJ&?WMsr5k3UwB$XGEQj3C$g*%6*eqsyXR%Hn2YR*h&?S6ZQJurjHSXX?d*wmTYgz%@"
+        }
+    }
+Example :
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/v1/authentication ---
+
+Authentication
+ 
+ All API queries should be made over HTTPS, and plain HTTP will be refused.Do not forget to include your headers in all requests.
+Every requests must contain the following headers:
+Making a request
+All requests must contain the following headers:
+token
+ - a Token that you generate
+publickey
+ - The public key is generated using the following convention - sha512 of your given token and private key i.e sha512(token + private_key)
+If your 
+Merchant Id
+ contains reserved characters (e.g., "@", "+", white spaces as 
+%20
+) it should be URL encoded otherwise you may get a signature mismatch or just an invalid parameter value.
+Name
+Type
+Required
+Description
+token
+String
+Yes
+ A newly generated access token for an applicant.
+publickey
+String
+Yes
+ sha512 of your given token and private key i.e sha512(token + private_key)
+An access token for an applicant has limited access to the API, e.g., it’s only valid for 1 applicant and can't access other applicants.
+ 
+#
+Creating your publickey
+Example Case:
+token: 2eqsd12123123e
+publickey: s32rffq34wdf34wfq34cad3qewaf
+ 
+ 
+Note :
+Avoid putting space, plus sign, or any other character in between your token and private key while calculating. Such alterations can cause errors and potentially render the key unusable.
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/v1/sub-merchant-creation ---
+
+Creating a Sub-merchant
+ 
+To create a new merchant, Make a call to the endpoint below with the a payload in the stated format.
+
+   curl -X POST \
+
+     ' {{base-url}}/{country_code}/merchant'
+
+Payload :
+{
+    "name": "Olubusayo store",
+    "phone": "2348068869429",
+    "email": "a@b.com",
+    "address": "17 lekki road, langbasa rd, Ikeja",
+    "contact_person": "Olubodun",
+    "charge_commission_to_merchant": "0",
+    "manage_stock": "0",
+    "use_custom_payment": "1",
+    "payment_gateway_group_id": "1",
+    "“Show_name_on_payment_gateway”": 1,
+    "“custom_flow_settings”": {
+      "skip": [
+        "customer_name",
+        "shipping_address"
+      ]
+    },
+    "payment_gateway_settings": {
+      "MerchantId": "4057",
+      "Username": "ogavalue","Password": "dfdfd"
+    },
+    "account_details": {
+      "bank_code": "058",
+      "account_number": "1213323232",
+      "account_name": "Okenwa Akinyele"
+    }
+  }
+Note that any diversion from the normal expected format for the payload may result to an "Invalid Parameter" error.
+Expected Response :
+{
+        "status": "success",
+        "data": {
+            "message": "Merchant successfully created."
+        }
+    }
+ 
+Note: Merchants should have unique phone numbers as a duplicate number will return the following error:
+ 
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/v1/country-code ---
+
+Country Codes
+ 
+Look up the country table, using the country name, and pick its country code. These country codes are the ones recognized by our system and anyone outside this will not be recognized.
+ 
+S/N
+ 
+Country Names
+ Country Codes
+ 1.
+ Nigeria
+ NG
+ 2.
+ Zambia
+ ZM
+ 3.
+ Liberia
+ LR
+4.
+ Ghana
+ GH
+5.
+ India
+ IN
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/v1/transactions ---
+
+Transactions
+ 
+Note: Do not forget to include the header.
+ 
+#
+Create an order to be completed by the customer through sms
+Enabling customers to create orders in a seamless way is a way to improve customer satisfaction. To do this, a request should be sent with a header to the following endpoint
+
+   curl -X POST \
+
+     ' {{base-url}}/{ merchant_id }/pay/{ country_code }'
+
+Payload :
+
+    {
+      "amount": "500",
+      "msisdn": "2348068869417",
+      "desc": "Testing",
+      "reference":"5549397032"
+    }
+
+Note: Do not forget to include the header
+ Name
+ Type
+ Description
+ merchant_id
+ Number
+Id gotten during merchant creation
+ country_code
+ Number
+ Refer to the country_code table
+ amount
+ Number
+ Amount to be initiated
+ msisdn
+ Number
+ Customers number
+ desc
+ String
+ Description of the order
+ reference
+ Number
+ A unique id for verification
+ 
+Where the merchant_id is the id given during setup while the 
+Country Code
+ can be found in the 
+Country Code table
+ 
+Example
+ 
+ 
+Expected Response :
+
+    {
+        "status": "success",
+        "data": {
+            "order_id": "8864905934",
+            "order_reference": "8864905934",
+            "message": "To complete this transaction, Text ORDER 5549397032 to 08011223344",
+            "msisdn_to_send_to": "08011223344"
+        }
+    }
+
+For the test, you can 
+ simulate the order locally 
+GET '{{base-url}}/bot/simulation/ORDER 5549397032'
+ 
+#
+Request for payment gateway codes
+ 
+For payer to get the available payment gateway options available for them to pay, You should send a POST request to this endpoint with the appropriate payload and Header.
+ Name
+ Type
+ Description
+ merchant_id
+ Number
+ Acquired during registration
+ country_code
+ String
+ Refer to the Country code table
+ amount
+ Number
+ The amount gotten from invoice
+ msidn
+ Number
+ Customer's number
+ desc
+ String
+ Description
+ reference
+ String
+ Reference from the invoice
+ 
+
+   curl -X POST \
+     ' {{base-url}}/{merchant_id}/payment/gateway/{country_code}'
+
+Payload :
+
+    {
+        "amount": 500,
+        "msisdn": "2348159174839",
+        "desc": "Test",
+        "reference": "4358346267"
+    }
+
+Response :
+
+   {
+    "status": "success",
+    "data": [
+        {
+            "gateway_code": 123,
+            "gateway_name": "Remita",
+            "gateway_description": " to pay with Remita RRR"
+        }
+    ]
+}
+
+Example Case :
+ 
+ 
+#
+Initiate a payment
+Payment can be initiated by choosing the preferred gateway and including its code in the request.
+Reference  the first table
+ Name
+ Type
+ Description
+ merchant_id
+ Number
+Id gotten during merchant creation
+ country_code
+ Number
+ Refer to the country_code table
+ amount
+ Number
+Initiate order amount
+ msisdn
+ Number
+ Customers number
+ desc
+ String
+ description of the order
+ reference
+ Number
+Reference recieived from the initiated order
+payment_gateway_code
+Number
+The access code generated from the payment gateway code request
+child_merchant_Id
+Number
+This is the id of your sub merchant
+
+   curl -X POST \
+
+     '{{base-url}}/{merchant_id}/pay/{country_code}/{payment_gateway_code}'
+
+Payload :
+
+    {
+      "amount": "500",
+      "msisdn":"2348068869417",
+      "desc": "Testing",
+      "reference":"ssssssdddde",
+      "child_merchant_id":"2348068869429"
+    }
+
+Example :
+ 
+Expected Response :
+
+{
+    "status": "success",
+    "data": {
+        "message": "Your order ID is 5549397032. Total amount is ₦500.00. Pay by transfer into the account below. \n\n Bank: FSDH Merchant Bank \n Account Number:  \n Account Name: Neolife.\n\nNB: THIS ACCOUNT DETAILS IS VALID ONLY FOR THIS TRANSACTION AND IT WILL EXPIRE IN 1hr.\n",
+        "order_reference": "5549397032",
+        "dialing_code": ""
+    }
+}
+
+Note, this payment will be completed online by the customer but for the test, it can be 
+ simulated locally 
+POST '{{base-url}}/payment/simulation'
+payload: 
+{ "order_reference": "5467870645", "amount": 600 }
+Meanwhile if the selected gateway has a service downtime or can not be reached, this had been handled for you
+Example case :
+ 
+#
+Create an Invoice
+This is to create an invoice to be sent to the customers' phones.
+ Name
+ Type
+ Description
+ merchant_id
+ Number
+ The id is given during merchant creation
+ amount
+ Number
+Expected amount from the recipient
+ msisdn
+ Number
+ recipients phone number
+reference
+ Number
+ a unique reference for the created invoice
+
+   curl -X POST \
+
+     ' {{base-url}}/{merchant_id}/invoice'
+
+Payload
+ :
+{
+      "amount": "500",
+      "msisdn": "2348068869417",
+      "reference":"12536373893"
+    }
+
+Expected Response :
+        {
+            "status": "success",
+            "data": {
+                "msisdn": "2348159174839",
+                "order_id": "2247371120",
+                "reference": "222393",
+                "total": 500,
+                "message": "2348159174839 -> ₦500.00, Ref: 2247371120"
+            }
+        }
+
+Example
+The referece must be unique else you run into a reference error
+ 
+#
+Get Bank List
+This returns the list of banks available for settlement. Banks not in the list are yet to be integrated into our system, you can always check back for update on the bank list or drop your request on the comment section.
+
+   curl -X GET \
+
+     ' {{base-url}}/{ merchant_id }/banks'
+
+Reference  the first table
+Response :
+
+    {
+        "status": "success",
+        "data": [
+            {
+                "bank_code": "044",
+                "bank_name": "ACCESS BANK PLC",
+                "bank_sort_code": "044150149"
+            },
+            {
+                "bank_code": "014",
+                "bank_name": "MAINSTREET BANK PLC",
+                "bank_sort_code": "014150030"
+            },
+          .
+          .
+          .
+          ]
+    } 
+
+Example :
+ 
+#
+Get A List Of Available Payment gateways
+This encompases available payment gateway options and their code.Please note that availability and suitability of these payment gateways may vary depending on your country and specific business requirements
+
+   curl -X GET \
+
+     ' {{base-url}}/{ merchant_id }/payment/gateway'
+
+Please note that availability and suitability of these payment gateways may vary depending on your country and specific business requirements
+Reference  the first table
+Response :
+
+        {
+            "status": "success",
+            "data": [
+                {
+                    "gateway_code": 93,
+                    "gateway_name": "Bank Transfer",
+                    "gateway_description": " to pay with Bank Transfer (Preferred by most users)"
+                },
+                {
+                    "gateway_code": 113,
+                    "gateway_name": "Bank Transfer",
+                    "gateway_description": " to pay with Bank Transfer (Preferred by most users)"
+                },
+                .
+                .
+                .
+            ]
+        }
+Example :
+ 
+ 
+ 
+#
+Confirm Payment Status
+Confirmation of payment can be easily done by checking it status through the endpoint below
+
+   curl -X GET \
+
+     ' {{base-url}}/{ merchant_id }/payment/{order_reference}/status/{country_code}'
+
+Name
+ Type
+ Description
+ merchant_id
+ Number
+ Id gave during Merchant creation
+ order_reference
+ Number
+ The generated id for the payment
+ contry_code
+ Number
+refer to the country_table
+ 
+Response :
+    {
+        "status": "success",
+        "data": {
+            "message": "Payment successful",
+            "status": "SUCCESSFUL",
+            "meta": []
+        }
+    }
+ Example Case:
+if the payment is yet to be successful, it returns Awaiting Payment
+Example Case :
+ 
+Else, if you send a wrong order id in your request, it returns an Invalid Order_Id
+Example Case:
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/v1/product ---
+
+Products
+ 
+Our API provide you with a variety of product types -
+ S/N
+ Product Type
+ Description
+ 1.
+ Product
+ These are tangible products. The flow of buying this type
+of product has an extra step of address
+ 2.
+ Event
+ These are for events or more like digital products (not bills). The flow does not include the address because it
+usually does not include it.
+ 3.
+ Invoice
+ This is for creating invoice
+ 
+ Name
+ Type
+ Required
+ Description
+ 
+ String
+  Yes
+ produnt name
+ qty
+ Number
+  Yes
+ product quantity
+ desc
+ String
+  Yes
+ description of the product
+ type / product_type
+ String
+ Yes
+ type of product to be created
+ case_quantity
+ Number
+ optional
+ 
+ case_price
+ Number
+ optional
+ 
+ weight
+ Number
+  Yes
+ weight of the
+ product_code
+ Number
+ Yes
+ This is the returned 'code' when a product is successfully created
+ 
+Creating a Product
+
+   curl -X POST \
+
+     '{{base-url}}/{merchant_id}/products'
+
+payload
+
+    {
+      "name": "test",
+      "qty": "1",
+      "price": "23232",
+      "desc": "testing",
+      "type": "product",
+      "case_quantity":
+      "23",
+      "case_price": "12",
+      "weight" : "223"
+    }
+
+Response :
+
+    {
+        "status": "success",
+        "data": {
+            "code": "285429"
+        }
+    }
+
+ 
+Edit a Product
+Products can be edited and updated through authorised merchant by calling on the following endpoint
+
+   curl -X PUT \
+
+     '{{base-url}}/{merchant_id}/product/code/{product_code}'
+
+Payload :
+
+    {
+        "name": "test",
+        "qty": "1",
+        "price": "23232",
+        "desc": "tetsting",
+        "type": "product",
+        "case_quantity":
+        "23",
+        "case_price": "12",
+        "weight" : "2293"
+    }
+Response :
+
+    {
+        "status": "success",
+        "data": {
+            "message": "Product successfully updated"
+        }
+    }
+ 
+Delete a product
+Products can be deleted by passing it code to the query in a DELETE request.
+   curl -X DELETE \
+
+     '{{base-url}}/{merchant_id}/product/code/{product_code}'
+
+Response :
+    {
+        "status": "success",
+        "data": {
+            "message": "Product successfully deleted"
+        }
+    }
+ 
+Get all created products by type
+To fetch the list of all available product, send a query to this endpoint.
+   curl -X GET \
+
+     '{{base-url}}/{merchant_id}/products/{product_type}'
+
+Expected response :
+    {
+        "status": "success",
+        "data": [
+            {
+                "code": "059288",
+                "name": "test",
+                "price": 23232,
+                "desc": "tetsting",
+                "type": "product",
+                "case_quantity": 23,
+                "case_price": 12,
+                "weight": "product",
+                "created": "2023-06-26 14:54:29",
+                "updated": "2023-06-26 14:54:29"
+            },
+            .
+            .
+            .
+        ]
+    }
+ 
+Get product by product code
+A single product can be fetched with its product_code
+   curl -X GET \
+
+     '{{base-url}}/{merchant_id}/product/code/{product_code}'
+
+Expected Response :
+    {
+        "status": "success",
+        "data": {
+            "code": "059288",
+            "name": "test",
+            "price": 23232,
+            "desc": "testing",
+            "type": "product",
+            "case_quantity": 23,
+            "case_price": 12,
+            "weight": "223",
+            "created": "2023-06-26 14:54:29",
+            "updated": "2023-06-26 14:54:29"
+        }
+    }
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/wallet/ ---
+
+Wallet
+ Ogaranya wallet is a virtual store where money is saved for a transactional purpose. This is so swift as it doesn't have to go through the bank to complete the transaction. Our system provides you with two types of wallets which are user and merchant wallets.
+Wallet is one of the features our system offers. In a case where gateways are down, this will be a messiah.
+Note: Only authorized merchants can debit a user's wallet.
+#
+User wallet
+User wallet is to enhance customer satisfaction. Note that this is a transactional wallet and can only be debited by an authorized merchant. Our system allows you to
+#
+Create a user wallet
+#
+Debit a user wallet
+#
+Get a wallet Infomation
+#
+Get a wallet Histoty
+#
+Top up a wallet
+#
+Credit a user wallet
+#
+Merchant wallet
+Merchants are provided with a transactional wallet which they can top up, check balance, and also use in completing transactions for their customers. Our system allows you to
+#
+To complete an order through merchant wallet.
+#
+Get merchant wallet balance
+#
+Top up a wallet
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/user-wallet ---
+
+#
+Users wallet
+User wallet is to enhance customer satisfaction. Note that this is a transactional wallet and can only be debited by an authorized merchant.
+#
+Create a user wallet
+This endpoint is to create a new user wallet. Creating a wallet is a crucial step that enables access to diversify transactions within our system.
+ Name
+Type
+ Description
+ firstname
+ String
+ First name of the intended wallet owner 
+required
+ surname
+ String
+ Surname of the intended wallet owner
+required
+ account_name
+ String
+ The name that should reflect on the accont. 
+optional
+ Phone
+ Number
+ Phone number of the intended wallet owner
+required
+ gender
+ String
+ Intended owner's given gender
+required
+ dob
+ Number
+ Intended Owner's date of birth
+required
+ bvn
+ Number
+ BVN of intended wallet owner
+required
+   curl -X POST \
+
+     ' {{base-url}}/{{ merchant_id }}/wallet'
+Payload :
+    {
+    "firstname": "Test",
+    "surname": "Testing",
+    "account_name": "Test Test",
+    "phone": "2348078569419",
+    "gender": "male",
+    "dob": "05/09/1959",
+    "bvn": "22769527394"
+}
+ 
+ 
+#
+Debit a user wallet
+This is to debit a users wallet by an authorized merchant.
+ Name
+Type
+ Description
+ Phone
+ Number
+ Phone number of the wallet owner
+ 
+ account_number
+ String
+ Users account number
+ Required
+ amount
+ Number
+ Amount to be debited
+ Required
+ payment_gateway_code
+ Number
+ 
+The gateway code for the wallet option
+ Required
+   curl -X POST \
+
+     '{{base-url}}/{{ merchant_id }}/wallet/debit'
+Payload :
+{
+    "phone": "2348078699345",
+    "account_number": "11000893295",
+    "amount": "100",
+    "payment_gateway_code": "122"
+}
+Example :
+ 
+ 
+#
+Credit a user wallet
+This endpoint is used to credit a user's wallet by an authorized merchant. On call of this endpoint, money is moved from the merchant wallet to the assigned user wallet.
+ Name
+Type
+ Description
+ Phone
+ Number
+ Phone number of the wallet owner
+ 
+ account_number
+ String
+ Users account number
+ Required
+ amount
+ Number
+ Amount to be debited
+ Required
+   curl -X POST \
+
+     '{{base-url}}/{{ merchant_id }}/wallet/credit'
+Payload :
+{
+    "phone": "2348078699345",
+    "account_number": "11000893295",
+    "amount": "1000",
+}
+Example :
+ 
+ 
+#
+Generate random BVN
+This endpoint provides you with random BVN which you can use in our test environment. This can be run in your browser. All you need to do is to click 
+ here 
+ or copy the endpoint to your browser, then click on the generate button. Yes, your BVN is ready.
+   curl -X GET \
+
+     'https://topinfo.ng/bvn-generator/'
+Example :
+#
+Get a wallet Infomation
+Send a request to this endpoint to retrieve information about an active wallet.
+   curl -X POST \
+
+     '{{base-url}}/{{ merchant_id }}/wallet/info'
+Payload :
+{
+    "phone": "2348078699345",
+    "account_number": "11000893295"
+}
+Example :
+#
+Get a wallet History
+To fetch a history of a wallet transaction.
+  curl -X POST \
+
+     '{{base-url}}/{{ merchant_id }}/wallet/history'
+Payload :
+{
+    "phone": "2347039188057",
+    "account_number": "1100033151",
+    "to": "2024-08-30",
+    "from": "2024-08-01"
+}
+Example :
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/merchant-wallet ---
+
+#
+Merchant wallet
+Merchants are provided with a transactional wallet which they can top up, check balance and also use in completing transaction for their customers.
+Note: Do not forget to include the header for authentication purposes.
+#
+To complete an order through merchant wallet.
+In a case where by a merchant wallet is to be charged for a completed order, you should call on this endpoint with the required infomation.
+   curl -X GET \
+
+     '{{base-url}}/transactional/wallet/{{ gateway_code }}/{{ order_id }}'
+ Phone
+Type
+ Description
+ Gateway Code
+ Number
+ 
+ The gateway code for the wallet option
+ Required
+ Order ID
+ Number
+ The order ID you are paying for
+ Required
+Example :
+#
+Get merchant wallet balance
+Send a get request to get the available wallet balance.
+   curl -X GET \
+
+     '{{base-url}}/transactional/wallet/'
+Example :
+#
+Top up a wallet
+You can easily move money to your wallet by sending a 
+command
+ to us. text 
+ TOP AMOUNT 
+ to 
+ 08107600076 
+ through any of the acceptable 
+ sales channels
+. 
+Note: As a merchant you can also top up through your merchant app.
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/virtual-account ---
+
+#
+
+  Virtual Account
+
+A Virtual Account is a dedicated, system-generated account assigned to a customer for receiving payments.
+Each virtual account is uniquely mapped to a customer using their personal details such as first name,
+surname, account name, and phone number.
+
+Funds paid into a virtual account are automatically tracked and credited to the associated merchant or customer wallet,
+making reconciliation fast, accurate, and seamless.
+
+    Note: Always ensure customer details are accurate, as the virtual account is uniquely generated based on the supplied information.
+    Authentication headers are required for all requests.
+  
+Create a Virtual Account
+
+To generate a virtual account for a customer, send a request with the required customer details.
+The system will create and return a unique virtual account tied to the provided information.
+curl -X POST \
+
+  '{{base-url}}/virtual-account/create'
+Request Body (JSON)
+{
+  "firstname": "Taofeek",
+  "surname": "Iyanda",
+  "account_name": "Taofeek Iyanda",
+  "phone": "2349065241914"
+}
+Field
+Type
+Description
+Firstname
+String
+Customer’s first name
+Required
+Surname
+String
+Customer’s last name
+Required
+Account Name
+String
+The display name for the virtual account
+Required
+Phone
+String
+Customer’s phone number in international format
+Required
+Example :
+How Virtual Accounts Work
+
+Once a virtual account is created, customers can make transfers to the account using bank transfer.
+All payments received are automatically logged and reflected in the merchant’s wallet balance.
+
+Virtual accounts are ideal for:
+Customer-specific payments
+Automated transaction tracking
+Eliminating manual payment confirmation
+
+    Tip: A single customer can have one or more virtual accounts depending on your business use case.
+  
+Version 1
+
+--- Source: https://www.ogaranya.com/bank/ ---
+
+Bank
+
+The Bank module provides direct access to banking services, allowing merchants to verify bank accounts
+and receive payments through system-generated virtual accounts. This ensures accurate validation,
+secure transactions, and seamless reconciliation.
+
+Bank is one of the core features of our system, designed to reduce failed transactions, eliminate
+manual confirmation, and improve overall payment success rates.
+
+    Note: Authentication headers are required for all bank-related requests.
+  
+#
+Virtual Account
+
+Virtual Account is a system-generated bank account assigned to a customer for receiving payments.
+Each virtual account is uniquely mapped to a customer using their personal details, enabling
+automatic tracking and reconciliation of payments.
+#
+Create a virtual account
+#
+Receive payments via bank transfer
+#
+Track virtual account transactions
+#
+Automatic payment reconciliation
+#
+Bank Enquiry
+
+Bank Enquiry allows merchants to verify bank account details before initiating transfers or payouts.
+By validating the bank code and account number, the system confirms the existence of the account and
+returns the account holder’s name.
+#
+Verify bank account details
+#
+Retrieve beneficiary account name
+#
+Validate account before transfer or payout
+Version 1
+
+--- Source: https://www.ogaranya.com/bank-enquiry ---
+
+#
+
+  Bank Enquiry
+
+Bank Enquiry allows you to verify and retrieve account details for a given bank account number
+before processing transactions. This helps ensure the account exists and the account holder’s
+information is correct.
+
+This endpoint is commonly used for validating beneficiary details during transfers, payouts,
+and onboarding processes to reduce failed transactions and errors.
+
+    Note: Bank enquiry must be performed before initiating a transfer.
+    Authentication headers are required for all requests.
+  
+Perform Bank Enquiry
+
+To verify a bank account, send the bank code and account number.
+The system will return the account name and validation status if the account exists.
+curl -X POST \
+
+  '{{base-url}}/v1/account/enquiry'
+Request Body (JSON)
+{
+  "bank_code": "{{bank_code}}",
+  "account_number": "{{account_number}}"
+}
+Field
+Type
+Description
+Bank Code
+String
+Unique code identifying the customer’s bank
+Required
+Account Number
+String
+Customer’s bank account number
+Required
+Example :
+
+    {
+      "status": true,
+      "message": "Account verified successfully",
+      "data": {
+        "account_name": "JOHN DOE",
+        "account_number": "0123456789",
+        "bank_code": "058"
+      }
+    }
+  
+How Bank Enquiry Works
+
+When a bank enquiry request is submitted, the system connects to the banking network to validate
+the provided account number against the selected bank.
+
+If the account is valid, the account holder’s name is returned and can be used to confirm
+the recipient before completing a transaction.
+
+Bank enquiry is ideal for:
+Validating beneficiary account details
+Reducing failed or misdirected transfers
+Improving transaction success rates
+
+    Tip: Always display the returned account name to users for confirmation before proceeding with a transfer.
+  
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/v1/simulation ---
+
+Simulation
+ 
+Our API allows you to simulate live models in the comfort of your local environment.
+Message simulation feature allows developers to test and emulate the behavior of messages within our system. It provides a convenient way to observe how messages flow, interact, and respond in a simulated environment. All forms of messages in every stage of deployment can be sent with this endpoints.
+Note: Do not forget to include the header. All forms of messages in every stages of deployment can be tested with this endpoints.
+ 
+Use cases :
+#
+Order Simulation
+This is an example of how to simulate an order
+
+   curl -X GET \
+
+     '{{base-url}}/bot/simulation/{ message }'
+
+Example:
+ 
+ 
+#
+Payment simulation
+Payment is to be completed online by the customer but it can be simulated with the following endpoint.
+
+   curl -X POST \
+
+     ' {{base-url}}/payment/simulation'
+
+Payload :
+{
+  "order_reference": "5467870645",
+  "amount": 600
+}
+Example:
+Version 1
+
+--- Source: https://www.ogaranya.com/documentation/v1/api-health ---
+
+API Health
+ 
+On API Health, you can easily understand the health status of the API and its returned Status Codes.
+To check the operational status of our service, you can use the following request. If the response you receive includes an HTTP status code of 200, it confirms the availability of your API.
+Note: Do not forget to include the header as stated above. Perhaps, This works fine without it.
+
+   curl -X GET \
+
+     'https://api.staging.ogaranya.com'
+
+ 
+#
+Errors
+The response body contains a JSON payload with additional information.
+Please, note that not all error responses will contain the error code and name. More and more errors will get their codes in the future.
+For example:
+Here is the error you get when you are not authenticated:
+  
+{
+
+      
+"status"
+:
+"Error"
+,
+
+      
+"message"
+:"
+You don't come to a party without your Token and Public key"
+,
+
+   
+}
+
+You get this when you make a call to an unavailable endpoint:
+ 
+{
+
+      
+"status"
+:
+"Error"
+,
+
+      
+"message"
+:"
+This page is missing, so is Nigeria's budget
+}
+Anytime a wrong data type or unexpected data is sent, you get the below error:
+  
+{
+
+      
+"status"
+:
+"Error"
+,
+
+      
+"message"
+:"
+Invalid Parameter"
+,
+
+     
+"code"
+:
+"E0001"
+,
+
+   
+}
+
+When you call on a wrong or unavailable gateway:
+    {
+       "status"
+:
+"Error"
+,
+
+      
+"message"
+:"
+ "We are not able to reach the gateway. We have reported this to the administrator. Please send your command again or use other payment gateway as stated below.\n\n",
+,
+
+      
+"code"
+:
+"E0024"
+,
+
+   
+}
+
+When you input a wrong token,publickey or unauthurised:
+  {
+
+      
+"status"
+:
+"Error"
+,
+
+      
+"message"
+:"
+ "I lost my glasses so I am finding it hard to find your credentials on the list of authorised users. Help look for my glasses.\n\n",
+,
+
+      
+"code"
+:
+"401"
+,
+
+   
+}
+
+Version 1
+
+--- Source: https://www.ogaranya.com/command-list ---
+
+Command List
+ 
+ Here is a list of command list within our system. All of this commands are to be texted to 
+ 08107600076 
+ through any of the acceptable 
+ sales channels
+. 
+ Command
+Description
+ Usage
+ Example
+SELLTO
+ To recall an order. If you choose the wrong bank option, you can call the bank list step with this template. 
+ SWITCH 0197651536 
+ SWITCH 0197651536 
+INVOICE
+ 
+ This command is used by merchants to create SMS invoices for their customers. his will only work from the phone number we registered the merchant with on our platform. 
+ INVOICE customerNumber Amount1, customerNumber2 Amount 2,... 
+ INVOICE 08159718493 1000, 09068126538 500, 08124638878 1000 
+ FUND 
+ This is used by the Agent to top up their wallet for transactions. 
+ FUND Amount 
+ FUND 2000 
+ TOP 
+ This command is used by the merchants to top up their wallets for transactions. 
+ TOP AMOUNT 
+ TOP 2000 
+ PAY 
+ 
+ This command helps customers pay merchants. The customer uses the command with the merchant code and amount to pay. Multiple merchants can be paid by separating the merchant code and amount with commas like this PAY 100001 200, 100002 300 
+ PAY MerchatCode Amount 
+ PAY 100001 200 
+ NEXT 
+ If the search items returned are more than 5, customers can use next to go to the next set of items. 
+ NEXT 
+ NEXT 
+ SEARCH 
+ This is used by customers to search the whole catalog on our platform. It will return the found items' code and their names. 
+ SEARCH SearchParameter 
+ SEARCH nokia 
+ UNLINK 
+ Stri
+ This is used by customers to unlink themselves from any social message platform they have linked their phone number to. 
+ng
+ UNLINK 
+UNLINK
+ TOKEN 
+ This is used by customers to link some of the social messaging platforms to their phone numbers. Customers will be prompted on how to use this command when they engage with the social messaging platform. 
+ TOKEN 
+ TOKEN 
+ BAL 
+ For customers or agents to check their wallet balance. 
+ BAL 
+ BAL 
+C
+ This is for Merchants to check the status of an order. This will only work from the phone number the merchant is registered with on Ogaranya platform. 
+ C OrderID 
+ C 2948358559 
+ HELP 
+ 
+ For instant support on any of our services. 
+HELP
+HELP
+ CLEAR 
+ To clear a particular product from your cart 
+ CLEAR ProductCode 
+ CLEAR 10102 
+ CLEAR 
+ To clear items added to the cart 
+ CLEAR 
+ CLEAR 
+ F 
+ To query a bills payment order outcome 
+ F OrderID 
+ F 2948358559 
+SWITCH
+ To recall an order. If you choose the wrong bank option, you can call the bank list step with this template. 
+ SWITCH OrderID 
+ SWITCH 0197651536 
+MYCART
+ 
+ To view your cart for open orders. 
+MYCART
+ MYCART 
+ REMOVE 
+ To remove an item from your cart. The quantity can be specified, if no quantity specified the assumed quantity is 1. Multiple items can be separated with comma. 
+ Remove ItemCode Quantity 
+ REMOVE 932608 3, 48765 
+ ORDER 
+ To recall an order. In case of choosing the wrong bank option, you can recall the last step with this template. 
+ ORDER OrderID 
+ ORDER 0197651536 
+ BOOK 
+ To book an event. The quantity can be specified. If no quantity is specified the assumption is quantity 1. Multiple items can be separated with comma. 
+ BOOK EventCode Quantity 
+ BOOK 10201, 110011 2 
+ GIVE 
+ To make charity giving toward a created Donation 
+ GIVE DonationCode Amount 
+ GIVE 10201 2000 
+ BUY 
+ Customers should use this template to purchase an existing product. The quantity can be specified. If no quantity is specified the assumption is quantity 1. Multiple items can be separated with comma. 
+ BUY ProductCode Quantity 
+ BUY 1010101 2, 000111
+
+--- Source: https://www.ogaranya.com/documentation/v1/faqs ---
+
+FAQs 
+Question:
+  I want to create a new merchant, How do I get a merchant_id to use in my request-payload?
+Answer :
+   You can only create a sub-merchant and not merchant. Meanwhile to create a sub-merchant you have to be a registered merchant on our platform. 
+ 
+Click here to join us as a merchant.
+ 
+Question:
+  I checked the wallet documentation and I have created one, but how do I check if it's created or not? because I have no payment gateway dashboard to check if my wallet is created
+Answer:
+ When you created the wallet, did you get a successful response? It is how to know the wallet has been created. The response comes with the account details for the wallet.
+ 
+Question:
+   How to get this parameter "payment_gateway_code" in Wallet Debit API ?
+Answer:
+ For you to get the payment gateway code attached to your merchant, read this documentation 
+https://www.ogaranya.com/documentation/v1/transactions#payment-gateways
+.
+ 
+Question:
+  How can I make a wallet to wallet transfer?
+Answer:
+  When a wallet is charged successfully, we credit the amount to the wallet of the merchant who made the API request. So you don't need to move money from one wallet to another wallet.
+ 
+Question:
+  What is the difference between Virtual Account and Wallet?
+Answer:
+  Wallet and Virtual Account are different in functionalities and regulatory requirements.
+While Virtual Account is just a passthrough (i.e. not storing values), NUBAN number is used for collections such that funds coming into Virtual Accounts are warehoused in the float (collection) account of the partner, a wallet is a store of value in the sense that funds sent to wallets are warehoused in the user's wallet. A wallet stores value and fund depletion is based on the usage by the customer.
+In terms of regulatory requirements, wallet requires more KYC details before it can be created because it functions like a regular bank account and it is tiered into 3 KYC levels (tier 1, tier 2 and tier 3). The higher the tier, the more the KYC requirements and the account limits.
+CBN regulations stipulate that only Banks and MMOs can keep customers ' deposits and by so doing, any Fintech who is developing solutions where values for each customer is expected to be kept is expected to use the wallet service for regulatory compliance.
+ 
+Version 1

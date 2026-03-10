@@ -1,0 +1,67 @@
+=== OGARANYA KNOWLEDGE BASE ===
+
+Topic: About Ogaranya & Core Concept
+Information: Ogaranya is an Offline-to-Online (O2O) convenience commerce platform. It allows businesses and individuals to buy, sell, and pay bills using text-based messaging services like SMS, WhatsApp, and USSD. The platform requires no app downloads, no lengthy sign-up forms, and no passwords. Users can simply connect through their preferred text messaging service to conclude transactions with ease, convenience, and speed.
+
+Topic: Getting Started for Merchants
+Information: To get started as a merchant on Ogaranya, text the word "MERCHANT" to the dedicated Ogaranya phone number: 08107600076. This will generate an invitation code to begin the setup process.
+
+Topic: Getting Started for Individuals (General Users)
+Information: Individuals do not need to register to use Ogaranya. To start paying bills or exploring utility services, text the word "UTILITY" to 08107600076.
+
+Topic: Airtime Purchase Commands
+Information: To buy airtime using Ogaranya, users must text a specific command to 08107600076. The format is: [Telco] [PhoneNumber]*[Amount]. For example, to buy 1000 Naira airtime for an MTN number, text "MTN 08068869417*1000" to 08107600076.
+
+Topic: Electricity / Power Purchase Commands
+Information: To purchase an electricity token using Ogaranya, the format is: [DistributionCompany] [MeterNumber]*[Amount]. For example, to buy power from EKDC, the command format is "EKDC MeterNumber*Amount".
+
+Topic: Booking and Buying Commands
+Information: Users can book events or buy products via SMS. To book an event, text "Book [EventCode]" to 08107600076 (e.g., "Book 101010"). To purchase a specific product, text "Buy [ProductCode]" to 08107600076 (e.g., "Buy 110011").
+
+Topic: Invoicing Commands (OgaPay)
+Information: Merchants can generate and deliver invoices to customers via SMS using the OgaPay service. The customer can then pay using their bank's USSD code, and the merchant is instantly notified. To generate an invoice via SMS, text "Invoice [CustomerPhoneNumber] [Amount]" to 08107600076 (e.g., "Invoice 09090001973 9000"). This serves as a great alternative or complement to physical POS systems.
+
+Topic: TV Subscription and Rewards
+Information: Users can renew satellite TV and internet subscriptions (e.g., DSTV) by texting their Smartcard Number. Additionally, Ogaranya has a Reward system where users accumulate rewards for every transaction, which can be used to pay for utilities or get free airtime.
+
+Topic: Phone Number Verification Service
+Information: Ogaranya offers a Phone Number Verification service for businesses as a superior alternative to standard OTPs (One-Time Passwords). Instead of businesses spending money to send OTPs that might be blocked by DND (Do-Not-Disturb) restrictions, the user sends a pre-setup token to Ogaranya's dedicated number. Ogaranya then validates the user and sends the information back to the business's server. This saves SMS units and prevents malicious users from spamming OTP requests.
+
+Topic: Developer API & Webhooks
+Information: Ogaranya is built for developers and offers a powerful, flexible REST API with predictable URLs, standard codes, authentication, and verbs. It also features webhooks for asynchronous events. The API is designed to be fully abstracted so developers can integrate Ogaranya into their systems in minutes. Setup time is typically less than 45 minutes.
+
+Topic: Contact Information & Location
+Information: Ogaranya Technology Solutions Limited is located at 12A Mabinuori Dawodu Street, Gbagada, Lagos (Landmark: Charly Boy Bus-stop). You can reach customer support by calling +234 (0)700-OGARANYA (0700-6427-2692) or +234 (0)700-700-HELP (0700-700-4357).
+
+Topic: E-commerce Platform Integrations (Shopify & WordPress)
+Information: Ogaranya allows merchants to unleash the full power of Online-to-Offline (O2O) commerce by providing downloadable plugins to seamlessly connect Ogaranya with major e-commerce platforms, specifically Shopify stores and WordPress (WooCommerce) websites.
+
+Topic: API Introduction & Formatting
+Information: The Ogaranya API provides RESTful APIs for creating, initiating, and accepting payments via SMS. When sending data, parameters must be passed as valid JSON, and the request must include the header "Content-Type: application/json". The API will also respond with JSON payloads.
+
+Topic: API Environments (Staging vs. Production)
+Information: The Ogaranya API has two environments: Staging and Production. The Staging environment (https://api.staging.ogaranya.com/v1) is used to test your integration without accurate checks. Once the integration is thoroughly tested in staging, developers will be provided with the Production endpoint during onboarding.
+
+Topic: API Authentication & Headers
+Information: To authorize requests, API users must pass their credentials through the request header. All requests must contain a "token" (your given token) and a "publickey". The public key is generated using sha512 of your given token and private key combined: sha512(token + private_key).
+
+Topic: Simulator Feature for Developers
+Information: Ogaranya offers an API Simulator feature that allows developers to test and emulate the behavior of live models (messages and payments) within a local environment. This ensures developers can safely test various endpoints without actually making real payments or sending real messages.
+
+Topic: Supported Country Codes
+Information: When making API requests that require a country code, the supported countries and their codes are: Nigeria (NG), Zambia (ZM), Liberia (LR), Ghana (GH), and India (IN).
+
+Topic: Bank Enquiry API
+Information: The Bank Enquiry API allows merchants to verify bank account numbers and retrieve accurate account names instantly. This ensures successful transfers by validating beneficiary details before a payment is made.
+
+Topic: Virtual Account vs. Wallet (Functionality & Regulation)
+Information: A Virtual Account is a unique, system-generated pass-through account used for collections (it does not store values); funds sent to it are warehoused in a partner's float account. A Wallet, however, is a store of value where funds are kept in the user's wallet. Because Wallets hold customer deposits, CBN regulations stipulate they function like regular bank accounts and require strict KYC details (tiered into levels 1, 2, and 3).
+
+Topic: Wallet to Wallet Transfers
+Information: Merchants do not need to manually move money from one wallet to another. When a wallet is charged successfully, Ogaranya automatically credits the amount to the wallet of the merchant who made the API request.
+
+Topic: User Wallet vs. Merchant Wallet
+Information: The User Wallet is a transactional wallet designed to enhance customer satisfaction and can only be debited by an authorized merchant. The Merchant Wallet is a transactional wallet provided to merchants so they can top up, check their balance, and complete transactions for their customers.
+
+Topic: Creating a Sub-Merchant
+Information: Registered merchants have the ability to create sub-merchants under their existing parent account. This is done by making a POST request to the endpoint: {{base-url}}/{country_code}/merchant, passing in business details like the sub-merchant's name, email, phone number, address, and bank account details.
