@@ -1,4 +1,5 @@
 import os
+from typing import Any
 
 from langchain_chroma import Chroma
 from langchain_groq import ChatGroq
@@ -10,6 +11,8 @@ from fastapi import APIRouter, HTTPException
 
 from app.schemas.chat import UserInput
 from app.ml.load_model import model
+
+from backend.app.schemas.chat import ChatResponse
 
 load_dotenv()
 
@@ -40,8 +43,8 @@ prompt = ChatPromptTemplate.from_messages([
     ("human", "{input}"),
 ])
 
-@chat_router.post("/chat")
-async def response(data: UserInput):
+@chat_router.post("/chat", response_model=ChatResponse)
+async def response(data: UserInput) -> ChatResponse:
     question_answer_chain = create_stuff_documents_chain(llm, prompt)
     rag_chain = create_retrieval_chain(retriever, question_answer_chain)
 
@@ -52,7 +55,7 @@ async def response(data: UserInput):
 
     try:
         response = await rag_chain.ainvoke({"input": user_input})
-        return {"reply": response["answer"]}
+        return ChatResponse(reply=response["answer"])
     except Exception as e:
         raise HTTPException(500, f"An error occurred while processing your request - {str(e)}")
 

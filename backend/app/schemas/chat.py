@@ -1,7 +1,9 @@
+from typing import Any
+
 from pydantic import BaseModel
 
 class ChatResponse(BaseModel):
-    response: str
+    reply: str
 
 class UserInput(BaseModel):
     input_text: str
